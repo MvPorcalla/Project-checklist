@@ -35,8 +35,3 @@ A personal list of development ideas and learning goals.
 ## 📂 Detailed Project Notes (Optional)
 
 You can add more details inside the `/ideas` folder as you develop each project.
-
----
-
-## 📌 Progress
-- Feel free to use GitHub Projects to create task boards and track milestones.
