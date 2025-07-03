@@ -7,9 +7,8 @@ A personal list of development ideas and learning goals.
 ## 🔄 Ongoing Projects
 
 - [ ] **Library Documents Archive Conversion**  
-  Currently working on converting the Library Documents Archive system.  
-  - **Technologies:** HTML, CSS, JavaScript, PHP  
-  _Goal:_ Enhance system functionality and improve front-end and back-end structure.
+  Currently working on Library Documents Archive system using  HTML, CSS, JavaScript, PHP  .  
+  _Goal:_ Dont know.
 
 - [ ] **Git/GitHub Practice Simulator**  
   Build a safe environment to practice Git commands with visual feedback and challenges.  
