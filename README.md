@@ -14,6 +14,8 @@ A personal list of development ideas and learning goals.
   Build a safe environment to practice Git commands with visual feedback and challenges.  
   _Goal:_ Improve Git workflow and teach others.
 
+- [ ] **Portfolio with ai chatbot**  
+
 ---
 
 
