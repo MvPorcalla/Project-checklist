@@ -18,6 +18,10 @@ A personal list of development ideas and learning goals.
 
 ---
 
+# NEXT
+- [ ] **Rule base Chatbot**  
+  Develop a chatbot.  
+  _Goal:_ I want a freind.
 
 ## ✅ Project Checklist
 
